@@ -12,6 +12,7 @@
 Telechy.app.tar.gz
 Telechy.app.tar.gz.sig
 Telechy.app/
+Telechy_*.app.zip
 
 # Keep only the latest.json manifest
 !latest.json
