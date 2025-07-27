@@ -1,0 +1,17 @@
+# Tauri release artifacts
+*.msi
+*.zip
+*.tar.gz
+*.sig
+*.dmg
+*.deb
+*.AppImage
+*.app
+
+# Telechy specific build artifacts
+Telechy.app.tar.gz
+Telechy.app.tar.gz.sig
+Telechy.app/
+
+# Keep only the latest.json manifest
+!latest.json
