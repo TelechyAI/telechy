@@ -1,15 +1,15 @@
 {
-  "version": "v0.6.2",
-  "notes": "Telechy v0.6.2 release with bug fixes and improvements",
-  "pub_date": "2025-07-27T01:25:51Z",
+  "version": "v0.6.3",
+  "notes": "Telechy v0.6.3 release with bug fixes and improvements",
+  "pub_date": "2025-07-27T01:39:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTnd5YXF4Sk1WRjhqa1JTOTM5TWNSOVJKaCtvSjIvZ29wNDcvM0xjNW9NMTNmcDBLS0lacmZoZW1yV04wNnRUQUtsNHFsWCtSbnVXSHNqZXN1a3BjVnB1MGZqcmtRbkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNTc5NTIzCWZpbGU6VGVsZWNoeS5hcHAudGFyLmd6CkhUeUEzTDhzZVBkSDMycmwra2c1RnlYZmEvQmNVRDFEcEpZVWZnRExEdU9IcERVUWdoR0VBMnRrYnVaTElqTHZtRDMrS005RlcycXlvY1VaK2NOQkR3PT0K",
-      "url": "https://github.com/TelechyAI/telechy/releases/download/v0.6.2/Telechy.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTnd5YXF4Sk1WRjRiVmJXbVRZU3owWU5DYXp3TWkvbWNSRnJPOExnT0lRSDJYemd3RWw4ZlRzcDVnUU90OHZ3ekZUQ05KdEVXTkxWWTEwa3dRWnN3aGcySnhNNlc1Q0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNTgwMjk4CWZpbGU6VGVsZWNoeS5hcHAudGFyLmd6CmY1RUtyazhaQ2lxZ2hTT1Y3WjN0dVQzZGVrOXhjczFDUGFOelhWb3hUYlRNWk1PRXRlVHQxS1BxbXoxY2tDeXNtK2RNRHVEMzExc1h6bHN1QVN0RUNRPT0K",
+      "url": "https://github.com/TelechyAI/telechy/releases/download/v0.6.3/Telechy.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTnd5YXF4Sk1WRjhqa1JTOTM5TWNSOVJKaCtvSjIvZ29wNDcvM0xjNW9NMTNmcDBLS0lacmZoZW1yV04wNnRUQUtsNHFsWCtSbnVXSHNqZXN1a3BjVnB1MGZqcmtRbkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNTc5NTIzCWZpbGU6VGVsZWNoeS5hcHAudGFyLmd6CkhUeUEzTDhzZVBkSDMycmwra2c1RnlYZmEvQmNVRDFEcEpZVWZnRExEdU9IcERVUWdoR0VBMnRrYnVaTElqTHZtRDMrS005RlcycXlvY1VaK2NOQkR3PT0K",
-      "url": "https://github.com/TelechyAI/telechy/releases/download/v0.6.2/Telechy.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTnd5YXF4Sk1WRjRiVmJXbVRZU3owWU5DYXp3TWkvbWNSRnJPOExnT0lRSDJYemd3RWw4ZlRzcDVnUU90OHZ3ekZUQ05KdEVXTkxWWTEwa3dRWnN3aGcySnhNNlc1Q0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNTgwMjk4CWZpbGU6VGVsZWNoeS5hcHAudGFyLmd6CmY1RUtyazhaQ2lxZ2hTT1Y3WjN0dVQzZGVrOXhjczFDUGFOelhWb3hUYlRNWk1PRXRlVHQxS1BxbXoxY2tDeXNtK2RNRHVEMzExc1h6bHN1QVN0RUNRPT0K",
+      "url": "https://github.com/TelechyAI/telechy/releases/download/v0.6.3/Telechy.app.tar.gz"
     }
   }
 }
